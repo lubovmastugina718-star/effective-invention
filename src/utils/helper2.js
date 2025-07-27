@@ -1,4 +1,4 @@
-// Utility functions for repos_effective-invention
+// Utility functions for repos_hist_effective-invention_20250727
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
