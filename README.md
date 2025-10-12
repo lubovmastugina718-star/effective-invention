@@ -7,3 +7,5 @@ Initial commit.
 ## Update
 
 Add configuration options
+
+# Add type hints
