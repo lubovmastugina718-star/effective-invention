@@ -9,3 +9,7 @@ Initial commit.
 Add configuration options
 
 # Add type hints
+
+## Update
+
+Fix bug in validation
