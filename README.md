@@ -13,3 +13,7 @@ Add configuration options
 ## Update
 
 Fix bug in validation
+
+## Update
+
+Update error codes
