@@ -3,3 +3,5 @@ node_modules/
 *.log
 
 # Improve code readability
+
+# Fix bug in validation
