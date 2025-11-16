@@ -1,0 +1,3 @@
+# CONTRIBUTING
+
+Fix race condition
