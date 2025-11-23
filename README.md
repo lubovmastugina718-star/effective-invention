@@ -17,3 +17,7 @@ Fix bug in validation
 ## Update
 
 Update error codes
+
+## Update
+
+Improve code readability
