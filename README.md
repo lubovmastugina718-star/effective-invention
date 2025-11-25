@@ -21,3 +21,7 @@ Update error codes
 ## Update
 
 Improve code readability
+
+## Update
+
+Add error handling
