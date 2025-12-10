@@ -29,3 +29,7 @@ Add error handling
 ## Update
 
 Update config files
+
+## Update
+
+Fix async/await issue
