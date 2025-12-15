@@ -33,3 +33,7 @@ Update config files
 ## Update
 
 Fix async/await issue
+
+## Update
+
+Update API documentation
