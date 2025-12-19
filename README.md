@@ -37,3 +37,7 @@ Fix async/await issue
 ## Update
 
 Update API documentation
+
+## Update
+
+Fix edge case
