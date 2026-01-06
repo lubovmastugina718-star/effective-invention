@@ -61,3 +61,5 @@ Add new feature
 <!-- Fix formatting -->
 
 <!-- Add comments -->
+
+<!-- Fix typo in README -->
