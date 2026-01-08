@@ -41,3 +41,7 @@ Update API documentation
 ## Update
 
 Fix edge case
+
+## Update
+
+Improve performance
