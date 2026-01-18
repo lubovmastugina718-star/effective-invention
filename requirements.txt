@@ -7,3 +7,5 @@
 # Optimize imports
 
 # Fix async/await issue
+
+# Fix memory leak
